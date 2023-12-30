@@ -8,13 +8,13 @@ The project aims to develop a system capable of real-time translation of sign la
 
 Sign language is a visual language and consists of 3 major components 
 
-![components](images/components.jpg)
+![components](components.jpg)
 
 In this project I basically focus on producing a model which can recognize Fingerspelling based hand gestures in order to form a complete word by combining each gesture. 
 
 The gestures I  trained are as given in the image below.
 
-![Signs](images/signs.jpg)
+![Signs](signs.jpg)
 
 ## Features
 
